@@ -1,0 +1,23 @@
+{
+  "name": "typescript-uml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostreifel/typescript-uml.git"
+  },
+  "author": "ottost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ostreifel/typescript-uml/issues"
+  },
+  "homepage": "https://github.com/ostreifel/typescript-uml#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.12",
+    "typescript": "^2.4.1"
+  }
+}
